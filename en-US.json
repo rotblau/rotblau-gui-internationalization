@@ -1,4 +1,7 @@
 {
+	"APP.ACTION_SHEET.COMMENT.DELETE_COMMENT": "Delete comment",
+	"APP.ACTION_SHEET.COMMENT.REPORT_COMMENT": "Report comment",
+	"APP.ACTION_SHEET.COMMENT.TITLE": "Comment actions",
 	"APP.MENU.APPS.MY_APPS_TEXT": "Here are your activated apps. Press the button on the right to activate the sort mode. If you want to remove an app, swipe from right to left over the name of the app.",
 	"APP.MENU.APPS.MY_APPS_TITLE": "My apps",
 	"APP.MENU.APPS.OTHER_APPS_TEXT": "Here are the remaining apps that you have not installed yet.",
