@@ -91,6 +91,79 @@
                         </children>
                     </folder_node>
                     <folder_node>
+                        <name>COMPONENT</name>
+                        <children>
+                            <folder_node>
+                                <name>ERROR-BOX</name>
+                                <children>
+                                    <concept_node>
+                                        <name>RELOAD_DATA</name>
+                                        <definition_loaded>false</definition_loaded>
+                                        <description></description>
+                                        <comment></comment>
+                                        <default_text></default_text>
+                                        <translations>
+                                            <translation>
+                                                <language>de-CH</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                            <translation>
+                                                <language>de-DE</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                            <translation>
+                                                <language>en-US</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                        </translations>
+                                    </concept_node>
+                                    <concept_node>
+                                        <name>TEXT</name>
+                                        <definition_loaded>false</definition_loaded>
+                                        <description></description>
+                                        <comment></comment>
+                                        <default_text></default_text>
+                                        <translations>
+                                            <translation>
+                                                <language>de-CH</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                            <translation>
+                                                <language>de-DE</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                            <translation>
+                                                <language>en-US</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                        </translations>
+                                    </concept_node>
+                                    <concept_node>
+                                        <name>TITLE</name>
+                                        <definition_loaded>false</definition_loaded>
+                                        <description></description>
+                                        <comment></comment>
+                                        <default_text></default_text>
+                                        <translations>
+                                            <translation>
+                                                <language>de-CH</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                            <translation>
+                                                <language>de-DE</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                            <translation>
+                                                <language>en-US</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                        </translations>
+                                    </concept_node>
+                                </children>
+                            </folder_node>
+                        </children>
+                    </folder_node>
+                    <folder_node>
                         <name>MENU</name>
                         <children>
                             <folder_node>
@@ -230,6 +303,74 @@
                                     <folder_node>
                                         <name>BETGROUP</name>
                                         <children>
+                                            <folder_node>
+                                                <name>ADMIN</name>
+                                                <children>
+                                                    <concept_node>
+                                                        <name>ACCEPT</name>
+                                                        <definition_loaded>false</definition_loaded>
+                                                        <description></description>
+                                                        <comment></comment>
+                                                        <default_text></default_text>
+                                                        <translations>
+                                                            <translation>
+                                                                <language>de-CH</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>de-DE</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>en-US</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                        </translations>
+                                                    </concept_node>
+                                                    <concept_node>
+                                                        <name>DENY</name>
+                                                        <definition_loaded>false</definition_loaded>
+                                                        <description></description>
+                                                        <comment></comment>
+                                                        <default_text></default_text>
+                                                        <translations>
+                                                            <translation>
+                                                                <language>de-CH</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>de-DE</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>en-US</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                        </translations>
+                                                    </concept_node>
+                                                    <concept_node>
+                                                        <name>TITLE</name>
+                                                        <definition_loaded>false</definition_loaded>
+                                                        <description></description>
+                                                        <comment></comment>
+                                                        <default_text></default_text>
+                                                        <translations>
+                                                            <translation>
+                                                                <language>de-CH</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>de-DE</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>en-US</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                        </translations>
+                                                    </concept_node>
+                                                </children>
+                                            </folder_node>
                                             <folder_node>
                                                 <name>BETS</name>
                                                 <children>
@@ -580,7 +721,7 @@
                                                         </translations>
                                                     </concept_node>
                                                     <concept_node>
-                                                        <name>NO_MEMBER_TEXT</name>
+                                                        <name>SEASON</name>
                                                         <definition_loaded>false</definition_loaded>
                                                         <description></description>
                                                         <comment></comment>
@@ -601,7 +742,49 @@
                                                         </translations>
                                                     </concept_node>
                                                     <concept_node>
-                                                        <name>SEASON</name>
+                                                        <name>STATUS_DENIED_TEXT</name>
+                                                        <definition_loaded>false</definition_loaded>
+                                                        <description></description>
+                                                        <comment></comment>
+                                                        <default_text></default_text>
+                                                        <translations>
+                                                            <translation>
+                                                                <language>de-CH</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>de-DE</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>en-US</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                        </translations>
+                                                    </concept_node>
+                                                    <concept_node>
+                                                        <name>STATUS_REQUESTED_TEXT</name>
+                                                        <definition_loaded>false</definition_loaded>
+                                                        <description></description>
+                                                        <comment></comment>
+                                                        <default_text></default_text>
+                                                        <translations>
+                                                            <translation>
+                                                                <language>de-CH</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>de-DE</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>en-US</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                        </translations>
+                                                    </concept_node>
+                                                    <concept_node>
+                                                        <name>STATUS_UNKNOWN_TEXT</name>
                                                         <definition_loaded>false</definition_loaded>
                                                         <description></description>
                                                         <comment></comment>
@@ -691,48 +874,6 @@
                                                 <children>
                                                     <concept_node>
                                                         <name>PTS</name>
-                                                        <definition_loaded>false</definition_loaded>
-                                                        <description></description>
-                                                        <comment></comment>
-                                                        <default_text></default_text>
-                                                        <translations>
-                                                            <translation>
-                                                                <language>de-CH</language>
-                                                                <approved>false</approved>
-                                                            </translation>
-                                                            <translation>
-                                                                <language>de-DE</language>
-                                                                <approved>false</approved>
-                                                            </translation>
-                                                            <translation>
-                                                                <language>en-US</language>
-                                                                <approved>false</approved>
-                                                            </translation>
-                                                        </translations>
-                                                    </concept_node>
-                                                    <concept_node>
-                                                        <name>REFRESH</name>
-                                                        <definition_loaded>false</definition_loaded>
-                                                        <description></description>
-                                                        <comment></comment>
-                                                        <default_text></default_text>
-                                                        <translations>
-                                                            <translation>
-                                                                <language>de-CH</language>
-                                                                <approved>false</approved>
-                                                            </translation>
-                                                            <translation>
-                                                                <language>de-DE</language>
-                                                                <approved>false</approved>
-                                                            </translation>
-                                                            <translation>
-                                                                <language>en-US</language>
-                                                                <approved>false</approved>
-                                                            </translation>
-                                                        </translations>
-                                                    </concept_node>
-                                                    <concept_node>
-                                                        <name>REFRESH_TEXT</name>
                                                         <definition_loaded>false</definition_loaded>
                                                         <description></description>
                                                         <comment></comment>
@@ -1182,7 +1323,28 @@
                                         </translations>
                                     </concept_node>
                                     <concept_node>
-                                        <name>REQUESTED</name>
+                                        <name>STATUS_DENIED</name>
+                                        <definition_loaded>false</definition_loaded>
+                                        <description></description>
+                                        <comment></comment>
+                                        <default_text></default_text>
+                                        <translations>
+                                            <translation>
+                                                <language>de-CH</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                            <translation>
+                                                <language>de-DE</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                            <translation>
+                                                <language>en-US</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                        </translations>
+                                    </concept_node>
+                                    <concept_node>
+                                        <name>STATUS_REQUESTED</name>
                                         <definition_loaded>false</definition_loaded>
                                         <description></description>
                                         <comment></comment>
