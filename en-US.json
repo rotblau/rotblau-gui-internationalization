@@ -5,6 +5,8 @@
 	"APP.ACTION_SHEET.LOGOUT.LOGOUT_AND_DELETE": "Logout and delete account",
 	"APP.ACTION_SHEET.LOGOUT.ONLY_LOGOUT": "Logout only",
 	"APP.ACTION_SHEET.LOGOUT.TITLE": "Logout",
+	"APP.ALERT.DELETE_ACCOUNT.TEXT": "Are you sure that you want to delete your account? You will lose all your data.",
+	"APP.ALERT.DELETE_ACCOUNT.TITLE": "Really delete account?",
 	"APP.COMPONENT.ERROR-BOX.ERROR_TEXT": "The data could not be loaded. Please try again.",
 	"APP.COMPONENT.ERROR-BOX.ERROR_TITLE": "Error",
 	"APP.COMPONENT.ERROR-BOX.NO_DATA_TEXT": "No data was found for this request.",

@@ -5,6 +5,8 @@
 	"APP.ACTION_SHEET.LOGOUT.LOGOUT_AND_DELETE": "Ausloggen und Konto löschen",
 	"APP.ACTION_SHEET.LOGOUT.ONLY_LOGOUT": "Nur ausloggen",
 	"APP.ACTION_SHEET.LOGOUT.TITLE": "Ausloggen",
+	"APP.ALERT.DELETE_ACCOUNT.TEXT": "Möchtest du dein Konto wirklich löschen? Du verlierst damit sämtliche Daten.",
+	"APP.ALERT.DELETE_ACCOUNT.TITLE": "Konto wirklich löschen?",
 	"APP.COMPONENT.ERROR-BOX.ERROR_TEXT": "Die Daten konnten nicht geladen werden. Bitte versuche es nochmals.",
 	"APP.COMPONENT.ERROR-BOX.ERROR_TITLE": "Fehler",
 	"APP.COMPONENT.ERROR-BOX.NO_DATA_TEXT": "Für diese Anfrage wurden keine Daten gefunden.",

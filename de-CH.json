@@ -5,6 +5,8 @@
 	"APP.ACTION_SHEET.LOGOUT.LOGOUT_AND_DELETE": "Uslogge und Konto lösche",
 	"APP.ACTION_SHEET.LOGOUT.ONLY_LOGOUT": "Nur uslogge",
 	"APP.ACTION_SHEET.LOGOUT.TITLE": "Uslogge",
+	"APP.ALERT.DELETE_ACCOUNT.TEXT": "Wottsch du dyy Konto wirklig lösche? Du verliersch drnoo alli Daate.",
+	"APP.ALERT.DELETE_ACCOUNT.TITLE": "Konto wirklig lösche?",
 	"APP.COMPONENT.ERROR-BOX.ERROR_TEXT": "D Daate hän nid könne glaade wärde. Bitte probiers nomol.",
 	"APP.COMPONENT.ERROR-BOX.ERROR_TITLE": "Fääler",
 	"APP.COMPONENT.ERROR-BOX.NO_DATA_TEXT": "Für die Aafroog gits kaini Daate.",
