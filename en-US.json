@@ -101,6 +101,7 @@
 	"APP.MODAL.BETGROUP.TITLE": "Create a betting group",
 	"APP.MODAL.CONNECTION-ERROR.TEXT": "The app could not complete an important request to the server. Please check your internet connection and try again.",
 	"APP.MODAL.CONNECTION-ERROR.TITLE": "Error",
+	"APP.MODAL.NEW_MESSAGE.TOOLBAR_TITLE": "Start new chat",
 	"APP.MODAL.SETUP.MY_PROFILES": "My profiles",
 	"APP.MODAL.SETUP.MY_TEAMS": "My teams",
 	"APP.MODAL.SETUP.MY_TOURNAMENTS": "My Competitions",

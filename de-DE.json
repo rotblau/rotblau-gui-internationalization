@@ -101,6 +101,7 @@
 	"APP.MODAL.BETGROUP.TITLE": "Tippgruppe erstellen",
 	"APP.MODAL.CONNECTION-ERROR.TEXT": "Die App konnte eine wichtige Anfrage an den Server nicht abschliessen. Bitte überprüfe deine Internetverbindung und versuche es nochmals.",
 	"APP.MODAL.CONNECTION-ERROR.TITLE": "Fehler",
+	"APP.MODAL.NEW_MESSAGE.TOOLBAR_TITLE": "Neuen Chat beginnen",
 	"APP.MODAL.SETUP.MY_PROFILES": "Meine Profile",
 	"APP.MODAL.SETUP.MY_TEAMS": "Meine Teams",
 	"APP.MODAL.SETUP.MY_TOURNAMENTS": "Meine Wettbewerbe",
