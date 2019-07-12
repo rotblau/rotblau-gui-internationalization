@@ -99,6 +99,8 @@
 	"APP.MODAL.BETGROUP.TEAM": "Team",
 	"APP.MODAL.BETGROUP.TEAM_IN_COMPETITION": "Team in competition",
 	"APP.MODAL.BETGROUP.TITLE": "Create a betting group",
+	"APP.MODAL.COMMENT.SAVE_COMMENT": "Save comment",
+	"APP.MODAL.COMMENT.TOOLBAR_TITLE": "Comment",
 	"APP.MODAL.CONNECTION-ERROR.TEXT": "The app could not complete an important request to the server. Please check your internet connection and try again.",
 	"APP.MODAL.CONNECTION-ERROR.TITLE": "Error",
 	"APP.MODAL.NEW_MESSAGE.TOOLBAR_TITLE": "Start new chat",
