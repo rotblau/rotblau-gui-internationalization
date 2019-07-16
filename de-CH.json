@@ -204,7 +204,7 @@
 	"APP.TOAST.REPORT.REPORT_SUCCESS": "Dyyni Mäldig isch erfolgryych abgschiggt worde und wird durchs Rotblau-Team prieft.",
 	"APP.TOAST.SETUP.PROFILES.ADD_SUCCESS": "S Profil {{username}} isch erfolgryych hinzuegfiegt worde.",
 	"APP.TOAST.SETUP.PROFILES.DELETE_SUCCESS": "S Profil {{username}} isch erfolgryych entfärnt worde.",
-	"APP.TOAST.SETUP.TEAM.ADD_SUCCESS": "S Profil {{name}} isch erfolgryych hinzuegfiegt worde.",
+	"APP.TOAST.SETUP.TEAM.ADD_SUCCESS": "S Team {{name}} isch erfolgryych hinzuegfiegt worde.",
 	"APP.TOAST.SETUP.TEAM.DELETE_SUCCESS": "S Team {{name}} isch erfolgryych entfärnt worde.",
 	"APP.TOAST.SETUP.TOURNAMENT.ADD_SUCCESS": "Dr Wettbewärb {{name}} isch erfolgryych hinzuegfiegt worde.",
 	"APP.TOAST.SETUP.TOURNAMENT.DELETE_SUCCESS": "Dr Wettbewärb {{name}} isch erfolgryych entfärnt worde.",

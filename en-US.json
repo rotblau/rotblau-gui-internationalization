@@ -204,7 +204,7 @@
 	"APP.TOAST.REPORT.REPORT_SUCCESS": "Your message has been sent successfully and will be checked by the Rotblau team.",
 	"APP.TOAST.SETUP.PROFILES.ADD_SUCCESS": "The profile {{username}} was added successfully.",
 	"APP.TOAST.SETUP.PROFILES.DELETE_SUCCESS": "The profile {{username}} was deleted successfully.",
-	"APP.TOAST.SETUP.TEAM.ADD_SUCCESS": "The profile {{name}} was added successfully.",
+	"APP.TOAST.SETUP.TEAM.ADD_SUCCESS": "The team {{name}} was added successfully.",
 	"APP.TOAST.SETUP.TEAM.DELETE_SUCCESS": "The profile {{name}} was deleted successfully.",
 	"APP.TOAST.SETUP.TOURNAMENT.ADD_SUCCESS": "The competition {{name}} was added successfully.",
 	"APP.TOAST.SETUP.TOURNAMENT.DELETE_SUCCESS": "The competition {{name}} was deleted successfully.",
