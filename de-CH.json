@@ -349,6 +349,7 @@
 	"WEBSITE.TOAST.REGISTRATION.REGISTRATION_ERROR_CONFLICT_USERNAME": "Dä Benutzername isch scho in Rotblau regischtriert worde.",
 	"WEBSITE.TOAST.REGISTRATION.REGISTRATION_ERROR_UNKNOWN": "D Regischtrierig het nid könne abgschlosse wärde.",
 	"WEBSITE.TOAST.REGISTRATION.REGISTRATION_SUCCESS": "Du bisch erfolgryych regischtriert worde!",
+	"WEBSITE.TOAST.UPDATE.UPDATE_AVAILABLE": "Für Rotblau isch en Update verfiegbar. D Syte wird jez neu glaade.",
 	"WEBSITE.TOAST.VERIFY-FINISH.VERIFICATION_ERROR_NOT_FOUND": "Dyy Bestätigungslink isch ungültig. Bitte fordere e neue Link aa.",
 	"WEBSITE.TOAST.VERIFY-FINISH.VERIFICATION_SUCCESS": "Dyyni Daate sin bestätigt worde!"
 }

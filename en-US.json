@@ -349,6 +349,7 @@
 	"WEBSITE.TOAST.REGISTRATION.REGISTRATION_ERROR_CONFLICT_USERNAME": "This username has already been registered in Rotblau.",
 	"WEBSITE.TOAST.REGISTRATION.REGISTRATION_ERROR_UNKNOWN": "The registration could not be completed.",
 	"WEBSITE.TOAST.REGISTRATION.REGISTRATION_SUCCESS": "You have been registered successfully!",
+	"WEBSITE.TOAST.UPDATE.UPDATE_AVAILABLE": "There is an update available for Rotblau. The page will be reloaded now.",
 	"WEBSITE.TOAST.VERIFY-FINISH.VERIFICATION_ERROR_NOT_FOUND": "Your confirmation link is invalid. Please request a new link.",
 	"WEBSITE.TOAST.VERIFY-FINISH.VERIFICATION_SUCCESS": "Your data has been confirmed!"
 }
