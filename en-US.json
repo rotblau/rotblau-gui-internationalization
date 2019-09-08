@@ -141,6 +141,8 @@
 	"APP.MENU.FOOTBALL.GAME.TICKER.OLD_TICKER_TEXT": "This ticker is made by a machine. Until we have migrated our own FCB ticker to the new system, please click on the button below to get the old ticker.",
 	"APP.MENU.FOOTBALL.GAME.TICKER.OLD_TICKER_TITLE": "Important information",
 	"APP.MENU.FOOTBALL.GAME.TICKER.OPEN_OLD_TICKER": "To the old ticker",
+	"APP.MENU.FOOTBALL.GAME.TICKER.SPONSOR_TEXT": "This ticker is created together with «bajour».",
+	"APP.MENU.FOOTBALL.GAME.TICKER.SPONSOR_TITLE": "Collaboration",
 	"APP.MENU.FOOTBALL.GAME.TOOLBAR_TITLE": "Game",
 	"APP.MENU.FOOTBALL.SEASON.TOOLBAR_TITLE": "Competition",
 	"APP.MENU.FOOTBALL.TOOLBAR_TITLE": "Football",

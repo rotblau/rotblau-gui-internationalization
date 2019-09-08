@@ -141,6 +141,8 @@
 	"APP.MENU.FOOTBALL.GAME.TICKER.OLD_TICKER_TEXT": "Dieser Ticker wird maschinell generiert. Bis wir unseren eigenen FCB-Ticker auf das neue System migriert haben, klicke bitte auf den Button unten, um auf den alten Ticker zu kommen.",
 	"APP.MENU.FOOTBALL.GAME.TICKER.OLD_TICKER_TITLE": "Wichtige Info",
 	"APP.MENU.FOOTBALL.GAME.TICKER.OPEN_OLD_TICKER": "Zum alten Ticker",
+	"APP.MENU.FOOTBALL.GAME.TICKER.SPONSOR_TEXT": "Dieser Ticker wird gemeinsam mit «bajour» erstellt.",
+	"APP.MENU.FOOTBALL.GAME.TICKER.SPONSOR_TITLE": "Zusammenarbeit",
 	"APP.MENU.FOOTBALL.GAME.TOOLBAR_TITLE": "Spiel",
 	"APP.MENU.FOOTBALL.SEASON.TOOLBAR_TITLE": "Wettbewerb",
 	"APP.MENU.FOOTBALL.TOOLBAR_TITLE": "Fussball",
