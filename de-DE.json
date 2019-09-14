@@ -1,5 +1,6 @@
 {
 	"APP.ACTION_SHEET.COMMENT.DELETE_COMMENT": "Kommentar löschen",
+	"APP.ACTION_SHEET.COMMENT.REPLY_COMMENT": "Auf Kommentar antworten",
 	"APP.ACTION_SHEET.COMMENT.REPORT_COMMENT": "Kommentar melden",
 	"APP.ACTION_SHEET.COMMENT.TITLE": "Kommentar-Aktionen",
 	"APP.ACTION_SHEET.LOGOUT.LOGOUT_AND_DELETE": "Ausloggen und Konto löschen",
@@ -19,6 +20,7 @@
 	"APP.ALERT.DELETE_CONVERSATION.TEXT": "Möchtest du wirklich alle Nachrichten mit {{username}} löschen?",
 	"APP.ALERT.DELETE_CONVERSATION.TITLE": "Nachrichten löschen",
 	"APP.COMPONENT.COMMENT-LIST-ELEMENT.COMMENT": "Kommentieren",
+	"APP.COMPONENT.COMMENT-LIST-ELEMENT.REPLY": "Antworten",
 	"APP.COMPONENT.ERROR-BOX.ERROR_TEXT": "Die Daten konnten nicht geladen werden. Bitte versuche es nochmals.",
 	"APP.COMPONENT.ERROR-BOX.ERROR_TITLE": "Fehler",
 	"APP.COMPONENT.ERROR-BOX.NO_DATA_TEXT": "Für diese Anfrage wurden keine Daten gefunden.",

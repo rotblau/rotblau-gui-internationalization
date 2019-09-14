@@ -1,5 +1,6 @@
 {
 	"APP.ACTION_SHEET.COMMENT.DELETE_COMMENT": "Kommentar lösche",
+	"APP.ACTION_SHEET.COMMENT.REPLY_COMMENT": "Uf e Kommentar antworte",
 	"APP.ACTION_SHEET.COMMENT.REPORT_COMMENT": "Kommentar mälde",
 	"APP.ACTION_SHEET.COMMENT.TITLE": "Kommentar-Aggzioone",
 	"APP.ACTION_SHEET.LOGOUT.LOGOUT_AND_DELETE": "Uslogge und Konto lösche",
@@ -19,6 +20,7 @@
 	"APP.ALERT.DELETE_CONVERSATION.TEXT": "Wottsch wirklig alli Noochrichte mit {{username}} lösche?",
 	"APP.ALERT.DELETE_CONVERSATION.TITLE": "Noochrichte lösche",
 	"APP.COMPONENT.COMMENT-LIST-ELEMENT.COMMENT": "Kommentiere",
+	"APP.COMPONENT.COMMENT-LIST-ELEMENT.REPLY": "Antworte",
 	"APP.COMPONENT.ERROR-BOX.ERROR_TEXT": "D Daate hän nid könne glaade wärde. Bitte probiers nomol.",
 	"APP.COMPONENT.ERROR-BOX.ERROR_TITLE": "Fääler",
 	"APP.COMPONENT.ERROR-BOX.NO_DATA_TEXT": "Für die Aafroog gits kaini Daate.",
