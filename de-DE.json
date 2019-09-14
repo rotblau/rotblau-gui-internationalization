@@ -12,6 +12,7 @@
 	"APP.ACTION_SHEET.POST.DELETE_POST": "Post löschen",
 	"APP.ACTION_SHEET.POST.REPORT_POST": "Post melden",
 	"APP.ACTION_SHEET.POST.TITLE": "Kommentar-Aktionen",
+	"APP.ACTION_SHEET.POST.UNDELETE_POST": "Post reaktivieren",
 	"APP.ACTION_SHEET.SEASON.TITLE": "Wettbewerb auswählen",
 	"APP.ACTION_SHEET.UNFOLLOW.TITLE": "Benutzer entfolgen",
 	"APP.ACTION_SHEET.UNFOLLOW.UNFOLLOW": "Entfolgen",
