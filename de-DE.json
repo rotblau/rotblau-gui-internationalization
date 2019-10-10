@@ -71,6 +71,7 @@
 	"APP.MENU.ADMIN.REPORTS.TOOLBAR_TITLE": "Reports",
 	"APP.MENU.ADMIN.REPORTS.USERS": "Benutzer",
 	"APP.MENU.ADMIN.TOOLBAR_TITLE": "Administration",
+	"APP.MENU.APPS.INSTALL": "Installieren",
 	"APP.MENU.APPS.MY_APPS_TEXT": "Hier hast du deine aktivierten Apps. Drücke rechts auf den Button, um den Sortierungsmodus zu aktivieren. Wenn du eine App entfernen möchtest, wische von rechts nach links über den Namen der App.",
 	"APP.MENU.APPS.MY_APPS_TITLE": "Meine Apps",
 	"APP.MENU.APPS.OTHER_APPS_TEXT": "Hier siehst du die restlichen Apps, die du noch nicht installiert hast.",
