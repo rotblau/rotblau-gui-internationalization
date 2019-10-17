@@ -178,6 +178,7 @@
 	"APP.MENU.FCB.TEAM.TOOLBAR_TITLE": "Team",
 	"APP.MENU.FCB.TOOLBAR_TITLE": "FC Basel 1893",
 	"APP.MENU.FCBLR.TITLE": "FCB Live Radio",
+	"APP.MENU.FOOTBALL.ALL_GAMES.LOAD_MORE": "Load more",
 	"APP.MENU.FOOTBALL.ALL_GAMES.TOOLBAR_TITLE": "All games",
 	"APP.MENU.FOOTBALL.GAME.SUMMARY.ADD_BET": "Bet game",
 	"APP.MENU.FOOTBALL.GAME.SUMMARY.BETS_TEXT": "Here you may see bets of other users. The average bet for this game is {{averageBet}}.",
