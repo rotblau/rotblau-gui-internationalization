@@ -86,6 +86,7 @@
 	"APP.COMPONENT.GAME-VENUE.OPEN_IN_GOOGLE_MAPS": "Open in Google Maps",
 	"APP.COMPONENT.GAME-VENUE.STADIUM_CAPACITY_TEXT": "It has a capacity of {{ capacity }} seats.",
 	"APP.COMPONENT.GAME-VENUE.STADIUM_INFO_TEXT": "The stadium «{{ venue }}» is located in {{ city }} ({{ country }}).",
+	"APP.COMPONENT.LEAGUE-SWIPER.ALL_LEAGUES": "All leagues",
 	"APP.COMPONENT.LIST_PLAYERS.ATTACKERS": "Attacker",
 	"APP.COMPONENT.LIST_PLAYERS.COACHES": "Coaches",
 	"APP.COMPONENT.LIST_PLAYERS.DEFENDERS": "Defenders",

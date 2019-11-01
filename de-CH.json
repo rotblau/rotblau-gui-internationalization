@@ -86,6 +86,7 @@
 	"APP.COMPONENT.GAME-VENUE.OPEN_IN_GOOGLE_MAPS": "In Google Maps uffmache",
 	"APP.COMPONENT.GAME-VENUE.STADIUM_CAPACITY_TEXT": "S het e Kapazität für {{ capacity }} Zueschauer.",
 	"APP.COMPONENT.GAME-VENUE.STADIUM_INFO_TEXT": "S Stadion «{{ venue }}» befindet sich in {{ city }} ({{ country }}).",
+	"APP.COMPONENT.LEAGUE-SWIPER.ALL_LEAGUES": "Alli Ligene",
 	"APP.COMPONENT.LIST_PLAYERS.ATTACKERS": "Stürmer",
 	"APP.COMPONENT.LIST_PLAYERS.COACHES": "Drainer",
 	"APP.COMPONENT.LIST_PLAYERS.DEFENDERS": "Vertaidiger",
