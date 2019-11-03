@@ -31,6 +31,8 @@
 	"APP.ACTION_SHEET.SEASON.TITLE": "Select competition",
 	"APP.ACTION_SHEET.UNFOLLOW.TITLE": "Unfollow user",
 	"APP.ACTION_SHEET.UNFOLLOW.UNFOLLOW": "Unfollow",
+	"APP.ALERT.APP_UPDATE.TEXT": "Some improvements on the app require a quick restart. Would you like to restart Rotblau now?",
+	"APP.ALERT.APP_UPDATE.TITLE": "Update available",
 	"APP.ALERT.DELETE_ACCOUNT.TEXT": "Are you sure that you want to delete your account? You will lose all your data.",
 	"APP.ALERT.DELETE_ACCOUNT.TITLE": "Really delete account?",
 	"APP.ALERT.DELETE_CONVERSATION.TEXT": "Do you really want to delete all messages to {{username}}?",
