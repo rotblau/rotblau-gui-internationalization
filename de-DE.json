@@ -415,6 +415,7 @@
 	"APP.MODAL.PROFILE.TOOLBAR_TITLE": "Profil",
 	"APP.MODAL.PROFILE.USERNAME_ERROR_INFO": "Ein Benutzername muss aus mindestens drei Zeichen mit mindestens einem Buchstaben bestehen und darf nur folgende Zeichen enthalten: a-z, 0-9, Punkt und Unterstrich.",
 	"APP.MODAL.PROFILE.USERNAME_ERROR_NOT_AVAILABLE": "Dieser Benutzername ist nicht mehr verfügbar.",
+	"APP.MODAL.PROFILE.WEBSITE_ERROR": "Deine Webseite muss mit «http://» oder «https://» beginnen!",
 	"APP.MODAL.PUSH.INFO_TEXT": "Hier kannst du konfigurieren, zu welchen Ereignissen du Benachrichtigungen erhalten möchtest. Die Einstellungen gelten jeweils für alle deine Geräte.",
 	"APP.MODAL.PUSH.INFO_TITLE": "Push-Nachrichten",
 	"APP.MODAL.PUSH.TOOLBAR_TITLE": "Push-Nachrichten",

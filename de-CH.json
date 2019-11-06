@@ -415,6 +415,7 @@
 	"APP.MODAL.PROFILE.TOOLBAR_TITLE": "Profil",
 	"APP.MODAL.PROFILE.USERNAME_ERROR_INFO": "E Benutzernaame muess us mindeschtens drei Zaiche mit mindeschtens aim Buechstaabe bestoo und dörf nur folgendi Zaichen enthalte: a-z, 0-9, Phunggt und Unterstrich.",
 	"APP.MODAL.PROFILE.USERNAME_ERROR_NOT_AVAILABLE": "Dä Benutzernaame isch nümm verfiegbar.",
+	"APP.MODAL.PROFILE.WEBSITE_ERROR": "Dyyni Websyte muess mit «http://» oder «https://» aafoo!",
 	"APP.MODAL.PUSH.INFO_TEXT": "Doo kasch du konfiguriere, wenn du Benoochrichtigunge bikoo wottsch. D Yystellige gälte jewyyls für alli Gräät.",
 	"APP.MODAL.PUSH.INFO_TITLE": "Push-Noochrichte",
 	"APP.MODAL.PUSH.TOOLBAR_TITLE": "Push-Noochrichte",
