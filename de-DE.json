@@ -502,6 +502,7 @@
 	"APP.TOAST.NOTIFICATION-LIST-ELEMENT.REQUEST_SUCCESS": "Du hast das Profil @{{ username }} für ein Abo angefragt.",
 	"APP.TOAST.NOTIFICATION-LIST-ELEMENT.UNBLOCK_SUCCESS": "Du hast den Benutzer @{{ username }} erfolgreich entblockt.",
 	"APP.TOAST.NOTIFICATION-LIST-ELEMENT.UNFOLLOW_SUCCESS": "Du hast dein Abo von @{{ username }} gelöscht.",
+	"APP.TOAST.POST-LIST-ELEMENT.SHARE_SUCCESS": "Der Post wurde erfolgreich geteilt.",
 	"APP.TOAST.PROFILE.CHANGE_ADDRESS_SUCCESS": "Deine Adressdaten wurden erfolgreich geändert.",
 	"APP.TOAST.PROFILE.CHANGE_DATA_SUCCESS": "Deine Änderungen wurden erfolgreich gespeichert.",
 	"APP.TOAST.PROFILE.CHANGE_PASSWORD_SUCCESS": "Dein Passwort wurde erfolgreich geändert.",

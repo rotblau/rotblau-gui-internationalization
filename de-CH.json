@@ -502,6 +502,7 @@
 	"APP.TOAST.NOTIFICATION-LIST-ELEMENT.REQUEST_SUCCESS": "Du hesch s Profil @{{ username }} für en Abo aagfrogt.",
 	"APP.TOAST.NOTIFICATION-LIST-ELEMENT.UNBLOCK_SUCCESS": "Du hesch dr Benutzer @{{ username }} erfolgryych entblockt.",
 	"APP.TOAST.NOTIFICATION-LIST-ELEMENT.UNFOLLOW_SUCCESS": "Du hesch s Abo vom Profil @{{ username }} glöscht.",
+	"APP.TOAST.POST-LIST-ELEMENT.SHARE_SUCCESS": "Dr Post isch erfolgryych dailt worde.",
 	"APP.TOAST.PROFILE.CHANGE_ADDRESS_SUCCESS": "Dyyni Adrässdaate sin erfolgryych gänderet worde.",
 	"APP.TOAST.PROFILE.CHANGE_DATA_SUCCESS": "Dyyni Änderige sin erfolgryych gspaicheret worde.",
 	"APP.TOAST.PROFILE.CHANGE_PASSWORD_SUCCESS": "Dyy Passwort isch erfolgryych gänderet worde.",
