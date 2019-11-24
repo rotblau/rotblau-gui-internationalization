@@ -469,7 +469,7 @@
 	"APP.MODAL.WELCOME.FORGOT_TITLE": "Forgotten login data",
 	"APP.MODAL.WELCOME.GO_BACK_TO_LOGIN": "Back to the login",
 	"APP.MODAL.WELCOME.MOBILE_TEXT": "Type in your mobile number here.",
-	"APP.MODAL.WELCOME.PASSWORD_ERROR_INFO": "A password must consist of at least eight characters. The password must include a capital letter (A-Z), a lowercase (a-z), a number (0-9), and a special character (e.g. dot, comma).",
+	"APP.MODAL.WELCOME.PASSWORD_ERROR_INFO": "A password must consist of at least 8 characters and the following elements:<br />\n- a capital letter (A-Z),<br />\n- a lowercase letter (a-z),<br />\n- a number (0-9) or a special character (e.g. dot, comma).<br />\nAdditionally, it must not contain \"Basel\" or \"1893\".",
 	"APP.MODAL.WELCOME.PASSWORD_ERROR_MATCH": "Your passwords do not match.",
 	"APP.MODAL.WELCOME.PRIVACY_TEXT": "With your registration you accept our terms of use.",
 	"APP.MODAL.WELCOME.REGISTRATION_TEXT": "Please sign up with a username and a password.",
