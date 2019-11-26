@@ -37,7 +37,7 @@
 	"APP.ACTION_SHEET.SHARE.TITLE": "Inhalt teilen",
 	"APP.ACTION_SHEET.UNFOLLOW.TITLE": "Benutzer entfolgen",
 	"APP.ACTION_SHEET.UNFOLLOW.UNFOLLOW": "Entfolgen",
-	"APP.ALERT.APP_UPDATE.TEXT": "Wir haben an der App Verbesserungen vorgenommen, die einen Neustart erfordern. Möchtest du Rotblau nun neustarten?",
+	"APP.ALERT.APP_UPDATE.TEXT": "Wir haben an der App Verbesserungen vorgenommen, die einen kurzen Refresh erfordern. Möchtest du Rotblau nun aktualisieren?",
 	"APP.ALERT.APP_UPDATE.TITLE": "Aktualisierung verfügbar",
 	"APP.ALERT.DELETE_ACCOUNT.TEXT": "Möchtest du dein Konto wirklich löschen? Du verlierst damit sämtliche Daten.",
 	"APP.ALERT.DELETE_ACCOUNT.TITLE": "Konto wirklich löschen?",
