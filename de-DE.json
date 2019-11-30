@@ -164,6 +164,7 @@
 	"APP.COMPONENT.POST-LIST-ELEMENT.LOAD_MORE_COMMENTS": "Weitere Kommentare laden...",
 	"APP.COMPONENT.POST-LIST-ELEMENT.N_VOTES": "{{ votes }} Stimmen",
 	"APP.COMPONENT.POST-LIST-ELEMENT.SHARE": "Teilen",
+	"APP.COMPONENT.POST-LIST-ELEMENT.SPONSORED_BY_X": "Dieser Post wurde gesponsert von @{{ username }}.",
 	"APP.COMPONENT.POST-LIST-ELEMENT.USER_HAS_SHARED_POST": "{{ username }} hat den folgenden Post geteilt:",
 	"APP.COMPONENT.POST-LIST-ELEMENT.VOTE_CLOSES": "läuft ab",
 	"APP.COMPONENT.REPORT-LIST-ELEMENT.ACCEPT": "Akzeptieren",
