@@ -463,6 +463,8 @@
 	"APP.MODAL.PROFILE.WEBSITE_ERROR": "Your website URL has to start with «http://» or «https://»!",
 	"APP.MODAL.PUSH.BETS": "Reminder betting game",
 	"APP.MODAL.PUSH.BETS_DESCRIPTION": "Reminders before every game of your betting groups.",
+	"APP.MODAL.PUSH.COMMENTS": "Post comments",
+	"APP.MODAL.PUSH.COMMENTS_DESCRIPTION": "If a user comments on one of your posts.",
 	"APP.MODAL.PUSH.FCB_BREAKING": "Breaking news FCB",
 	"APP.MODAL.PUSH.FCB_BREAKING_DESCRIPTION": "The Rotblau team sends you transfers, draws, etc.",
 	"APP.MODAL.PUSH.FCB_LIVE": "Live ticker games of FCB",

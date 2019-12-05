@@ -463,6 +463,8 @@
 	"APP.MODAL.PROFILE.WEBSITE_ERROR": "Deine Webseite muss mit «http://» oder «https://» beginnen!",
 	"APP.MODAL.PUSH.BETS": "Erinnerung Tippspiel",
 	"APP.MODAL.PUSH.BETS_DESCRIPTION": "Erinnerungen vor jedem Spiel aus deinen Tippspiel-Gruppen.",
+	"APP.MODAL.PUSH.COMMENTS": "Post-Kommentare",
+	"APP.MODAL.PUSH.COMMENTS_DESCRIPTION": "Wenn ein Benutzer einen Post von dir kommentiert.",
 	"APP.MODAL.PUSH.FCB_BREAKING": "Breaking News FCB",
 	"APP.MODAL.PUSH.FCB_BREAKING_DESCRIPTION": "Das Rotblau-Team sendet Transfers, Auslosungen, u.v.m.",
 	"APP.MODAL.PUSH.FCB_LIVE": "Liveticker FCB-Spiele",

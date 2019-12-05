@@ -463,6 +463,8 @@
 	"APP.MODAL.PROFILE.WEBSITE_ERROR": "Dyyni Websyte muess mit «http://» oder «https://» aafoo!",
 	"APP.MODAL.PUSH.BETS": "Erinnerig Tippspiil",
 	"APP.MODAL.PUSH.BETS_DESCRIPTION": "Erinnerige vor jedem Spiil us dyyne Tippspiil-Gruppene.",
+	"APP.MODAL.PUSH.COMMENTS": "Post-Kommentäär",
+	"APP.MODAL.PUSH.COMMENTS_DESCRIPTION": "Wenn e Benutzer e Post vo dir kommentiert.",
 	"APP.MODAL.PUSH.FCB_BREAKING": "Breaking News FCB",
 	"APP.MODAL.PUSH.FCB_BREAKING_DESCRIPTION": "S Rotblau-Team schiggt Transfers, Uslosige, u.v.m.",
 	"APP.MODAL.PUSH.FCB_LIVE": "Liveticker FCB-Spiil",
