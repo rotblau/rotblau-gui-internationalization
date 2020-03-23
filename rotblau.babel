@@ -3395,6 +3395,32 @@
                                 </children>
                             </folder_node>
                             <folder_node>
+                                <name>LIST-GAMEGROUP-GAMES</name>
+                                <children>
+                                    <concept_node>
+                                        <name>UNTIL</name>
+                                        <definition_loaded>false</definition_loaded>
+                                        <description></description>
+                                        <comment></comment>
+                                        <default_text></default_text>
+                                        <translations>
+                                            <translation>
+                                                <language>de-CH</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                            <translation>
+                                                <language>de-DE</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                            <translation>
+                                                <language>en-US</language>
+                                                <approved>false</approved>
+                                            </translation>
+                                        </translations>
+                                    </concept_node>
+                                </children>
+                            </folder_node>
+                            <folder_node>
                                 <name>LIST_PLAYERS</name>
                                 <children>
                                     <concept_node>
@@ -4496,32 +4522,6 @@
                                         <name>BETGROUP</name>
                                         <children>
                                             <folder_node>
-                                                <name>ADMIN</name>
-                                                <children>
-                                                    <concept_node>
-                                                        <name>TITLE</name>
-                                                        <definition_loaded>false</definition_loaded>
-                                                        <description></description>
-                                                        <comment></comment>
-                                                        <default_text></default_text>
-                                                        <translations>
-                                                            <translation>
-                                                                <language>de-CH</language>
-                                                                <approved>false</approved>
-                                                            </translation>
-                                                            <translation>
-                                                                <language>de-DE</language>
-                                                                <approved>false</approved>
-                                                            </translation>
-                                                            <translation>
-                                                                <language>en-US</language>
-                                                                <approved>false</approved>
-                                                            </translation>
-                                                        </translations>
-                                                    </concept_node>
-                                                </children>
-                                            </folder_node>
-                                            <folder_node>
                                                 <name>BETS</name>
                                                 <children>
                                                     <concept_node>
@@ -4692,32 +4692,6 @@
                                                             </translation>
                                                         </translations>
                                                     </concept_node>
-                                                    <concept_node>
-                                                        <name>TITLE</name>
-                                                        <definition_loaded>false</definition_loaded>
-                                                        <description></description>
-                                                        <comment></comment>
-                                                        <default_text></default_text>
-                                                        <translations>
-                                                            <translation>
-                                                                <language>de-CH</language>
-                                                                <approved>false</approved>
-                                                            </translation>
-                                                            <translation>
-                                                                <language>de-DE</language>
-                                                                <approved>false</approved>
-                                                            </translation>
-                                                            <translation>
-                                                                <language>en-US</language>
-                                                                <approved>false</approved>
-                                                            </translation>
-                                                        </translations>
-                                                    </concept_node>
-                                                </children>
-                                            </folder_node>
-                                            <folder_node>
-                                                <name>COMMENTS</name>
-                                                <children>
                                                     <concept_node>
                                                         <name>TITLE</name>
                                                         <definition_loaded>false</definition_loaded>
@@ -7362,6 +7336,121 @@
                             <folder_node>
                                 <name>GAMING</name>
                                 <children>
+                                    <folder_node>
+                                        <name>GAMEGROUP</name>
+                                        <children>
+                                            <folder_node>
+                                                <name>GAMES</name>
+                                                <children>
+                                                    <concept_node>
+                                                        <name>ADD_GAME</name>
+                                                        <definition_loaded>false</definition_loaded>
+                                                        <description></description>
+                                                        <comment></comment>
+                                                        <default_text></default_text>
+                                                        <translations>
+                                                            <translation>
+                                                                <language>de-CH</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>de-DE</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>en-US</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                        </translations>
+                                                    </concept_node>
+                                                    <concept_node>
+                                                        <name>ALL_GAMES</name>
+                                                        <definition_loaded>false</definition_loaded>
+                                                        <description></description>
+                                                        <comment></comment>
+                                                        <default_text></default_text>
+                                                        <translations>
+                                                            <translation>
+                                                                <language>de-CH</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>de-DE</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>en-US</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                        </translations>
+                                                    </concept_node>
+                                                    <concept_node>
+                                                        <name>MY_GAMES</name>
+                                                        <definition_loaded>false</definition_loaded>
+                                                        <description></description>
+                                                        <comment></comment>
+                                                        <default_text></default_text>
+                                                        <translations>
+                                                            <translation>
+                                                                <language>de-CH</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>de-DE</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>en-US</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                        </translations>
+                                                    </concept_node>
+                                                    <concept_node>
+                                                        <name>TEXT</name>
+                                                        <definition_loaded>false</definition_loaded>
+                                                        <description></description>
+                                                        <comment></comment>
+                                                        <default_text></default_text>
+                                                        <translations>
+                                                            <translation>
+                                                                <language>de-CH</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>de-DE</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>en-US</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                        </translations>
+                                                    </concept_node>
+                                                    <concept_node>
+                                                        <name>TITLE</name>
+                                                        <definition_loaded>false</definition_loaded>
+                                                        <description></description>
+                                                        <comment></comment>
+                                                        <default_text></default_text>
+                                                        <translations>
+                                                            <translation>
+                                                                <language>de-CH</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>de-DE</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                            <translation>
+                                                                <language>en-US</language>
+                                                                <approved>false</approved>
+                                                            </translation>
+                                                        </translations>
+                                                    </concept_node>
+                                                </children>
+                                            </folder_node>
+                                        </children>
+                                    </folder_node>
                                     <concept_node>
                                         <name>MY_GROUPS_TEXT</name>
                                         <definition_loaded>false</definition_loaded>
