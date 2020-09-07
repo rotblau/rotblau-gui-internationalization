@@ -771,7 +771,7 @@
 	"GENERAL.TOAST.UNKNOWN_ERROR": "En unbekannte Fääler isch uffdrätte. Bitte probiers nomol.",
 	"RADIO_APP.ALERT.IMPRINT.IMPRINT_TEXT": "Die App «Radio Rotblau» wurde von AppVision GmbH entwickelt. Unsere eigene App «Rotblau» ist eine der beliebtesten Fussball-Apps der Schweiz und seit vielen Jahren Partner des «Radio Rotblau». Mehr Informationen findest du auf appvision.ch und rotblau.app.",
 	"RADIO_APP.ALERT.IMPRINT.IMPRINT_TITLE": "Impressum",
-	"RADIO_APP.COMPONENT.MUSIC-PLAYER.LISTENER_INFO": "{{ listeners }} aktuelli Hörer",
+	"RADIO_APP.COMPONENT.MUSIC-PLAYER.LISTENER_INFO": "{{ listeners }} aktuelli Hörer via App",
 	"RADIO_APP.COMPONENT.MUSIC-PLAYER.SELECT_STUDIO": "Studio wääle",
 	"RADIO_APP.MENU.HOME.CURRENT_GAMES": "Aggtuelli Spiil",
 	"RADIO_APP.MENU.HOME.ERROR_TEXT": "Wichtige Daate hän nid könne glaade wärde.",
