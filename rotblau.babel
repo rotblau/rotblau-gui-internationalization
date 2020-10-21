@@ -1,4 +1,4 @@
-<babeledit_project be_version="2.7.1" version="1.2">
+<babeledit_project version="1.2">
     <!--
 
     BabelEdit project file
@@ -18799,6 +18799,5 @@
     <configuration>
         <indent>tab</indent>
         <format>json</format>
-        <support_arrays>true</support_arrays>
     </configuration>
 </babeledit_project>
