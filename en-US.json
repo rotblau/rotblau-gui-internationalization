@@ -615,6 +615,7 @@
 	"APP.TOAST.NOTIFICATION-LIST-ELEMENT.UNBLOCK_SUCCESS": "You have unblocked the user @{{ username }} successfully.",
 	"APP.TOAST.NOTIFICATION-LIST-ELEMENT.UNFOLLOW_SUCCESS": "You have unfollowed the profile of @{{ username }}.",
 	"APP.TOAST.POST-LIST-ELEMENT.SHARE_SUCCESS": "The post has been shared successfully.",
+	"APP.TOAST.POST-LIST-ELEMENT.VOTE_SUCCESS": "Your vote has been saved.",
 	"APP.TOAST.PROFILE.CHANGE_ADDRESS_SUCCESS": "Your address data has been changed successfully.",
 	"APP.TOAST.PROFILE.CHANGE_DATA_SUCCESS": "Your changes have been saved successfully.",
 	"APP.TOAST.PROFILE.CHANGE_PASSWORD_SUCCESS": "Your password has been changed successfully.",
