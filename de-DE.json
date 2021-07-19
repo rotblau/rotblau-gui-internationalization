@@ -504,6 +504,8 @@
 	"APP.MODAL.POST.POLL_QUESTION": "Frage",
 	"APP.MODAL.POST.POST": "Posten",
 	"APP.MODAL.POST.POST_AS_ROTBLAU": "Als Rotblau posten",
+	"APP.MODAL.POST.TEXT": "Text",
+	"APP.MODAL.POST.TITLE": "Titel",
 	"APP.MODAL.POST.TOOLBAR_TITLE": "Beitrag erstellen",
 	"APP.MODAL.POST.URL": "Link",
 	"APP.MODAL.POST.URL_ERROR": "Dieser Link ist ungültig. Bitte füge einen gültigen Link ein, welcher mit http:// oder https:// beginnt.",

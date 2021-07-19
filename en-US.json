@@ -504,6 +504,8 @@
 	"APP.MODAL.POST.POLL_QUESTION": "Question",
 	"APP.MODAL.POST.POST": "Post",
 	"APP.MODAL.POST.POST_AS_ROTBLAU": "Post as Rotblau",
+	"APP.MODAL.POST.TEXT": "Text",
+	"APP.MODAL.POST.TITLE": "Title",
 	"APP.MODAL.POST.TOOLBAR_TITLE": "Create a post",
 	"APP.MODAL.POST.URL": "Link",
 	"APP.MODAL.POST.URL_ERROR": "This link is invalid. Please insert a valid link which starts with http:// or https://.",
