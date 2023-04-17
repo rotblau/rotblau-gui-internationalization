@@ -16374,6 +16374,46 @@
 												</translations>
 											</concept_node>
 											<concept_node>
+												<name>3RD_PLACE_PLAYOFF</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
+												<name>CUPQROUND</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
 												<name>CUPROUND</name>
 												<description/>
 												<comment/>
@@ -16394,7 +16434,67 @@
 												</translations>
 											</concept_node>
 											<concept_node>
+												<name>EASTERN_CONFERENCE_FINALS</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
+												<name>EASTERN_CONFERENCE_SEMIFINALS</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
 												<name>FINAL</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
+												<name>MLS_CUP</name>
 												<description/>
 												<comment/>
 												<default_text/>
@@ -16454,7 +16554,107 @@
 												</translations>
 											</concept_node>
 											<concept_node>
+												<name>PLACEMENT_QUALIFICATION_MATCH</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
+												<name>PLAYOFF_ROUND</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
 												<name>QUARTERFINAL</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
+												<name>ROUND_1</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
+												<name>ROUND_2</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
+												<name>ROUND_OF_128</name>
 												<description/>
 												<comment/>
 												<default_text/>
@@ -16573,11 +16773,71 @@
 													</translation>
 												</translations>
 											</concept_node>
+											<concept_node>
+												<name>WESTERN_CONFERENCE_FINALS</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
+												<name>WESTERN_CONFERENCE_SEMIFINALS</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
 										</children>
 									</folder_node>
 									<folder_node>
 										<name>ROUND_PHASE</name>
 										<children>
+											<concept_node>
+												<name>1ST_PART_OF_SEASON_1ST_LEG</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
 											<concept_node>
 												<name>2ND_PART_OF_SEASON_2ND_LEG</name>
 												<description/>
@@ -16779,7 +17039,47 @@
 												</translations>
 											</concept_node>
 											<concept_node>
+												<name>PLACEMENT_MATCHES</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
 												<name>PLAYOFFS</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
+												<name>PLAYOFF_ROUND</name>
 												<description/>
 												<comment/>
 												<default_text/>
