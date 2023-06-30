@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<babeledit_project be_version="4.0.3" version="1.3">
+<babeledit_project be_version="4.1.0" version="1.3">
 	<!--
 
     BabelEdit project file
@@ -1297,6 +1297,66 @@
 														</translations>
 													</concept_node>
 													<concept_node>
+														<name>FCB_CH</name>
+														<description/>
+														<comment/>
+														<default_text/>
+														<translations>
+															<translation>
+																<language>de-CH</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>de-DE</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>en-US</language>
+																<approved>false</approved>
+															</translation>
+														</translations>
+													</concept_node>
+													<concept_node>
+														<name>FCB_CH_DESCRIPTION</name>
+														<description/>
+														<comment/>
+														<default_text/>
+														<translations>
+															<translation>
+																<language>de-CH</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>de-DE</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>en-US</language>
+																<approved>false</approved>
+															</translation>
+														</translations>
+													</concept_node>
+													<concept_node>
+														<name>FCB_DESCRIPTION</name>
+														<description/>
+														<comment/>
+														<default_text/>
+														<translations>
+															<translation>
+																<language>de-CH</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>de-DE</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>en-US</language>
+																<approved>false</approved>
+															</translation>
+														</translations>
+													</concept_node>
+													<concept_node>
 														<name>FCBFORUM_CH</name>
 														<description/>
 														<comment/>
@@ -1358,66 +1418,6 @@
 													</concept_node>
 													<concept_node>
 														<name>FCBLR_DESCRIPTION</name>
-														<description/>
-														<comment/>
-														<default_text/>
-														<translations>
-															<translation>
-																<language>de-CH</language>
-																<approved>false</approved>
-															</translation>
-															<translation>
-																<language>de-DE</language>
-																<approved>false</approved>
-															</translation>
-															<translation>
-																<language>en-US</language>
-																<approved>false</approved>
-															</translation>
-														</translations>
-													</concept_node>
-													<concept_node>
-														<name>FCB_CH</name>
-														<description/>
-														<comment/>
-														<default_text/>
-														<translations>
-															<translation>
-																<language>de-CH</language>
-																<approved>false</approved>
-															</translation>
-															<translation>
-																<language>de-DE</language>
-																<approved>false</approved>
-															</translation>
-															<translation>
-																<language>en-US</language>
-																<approved>false</approved>
-															</translation>
-														</translations>
-													</concept_node>
-													<concept_node>
-														<name>FCB_CH_DESCRIPTION</name>
-														<description/>
-														<comment/>
-														<default_text/>
-														<translations>
-															<translation>
-																<language>de-CH</language>
-																<approved>false</approved>
-															</translation>
-															<translation>
-																<language>de-DE</language>
-																<approved>false</approved>
-															</translation>
-															<translation>
-																<language>en-US</language>
-																<approved>false</approved>
-															</translation>
-														</translations>
-													</concept_node>
-													<concept_node>
-														<name>FCB_DESCRIPTION</name>
 														<description/>
 														<comment/>
 														<default_text/>
@@ -16654,26 +16654,6 @@
 												</translations>
 											</concept_node>
 											<concept_node>
-												<name>ROUND_OF_128</name>
-												<description/>
-												<comment/>
-												<default_text/>
-												<translations>
-													<translation>
-														<language>de-CH</language>
-														<approved>false</approved>
-													</translation>
-													<translation>
-														<language>de-DE</language>
-														<approved>false</approved>
-													</translation>
-													<translation>
-														<language>en-US</language>
-														<approved>false</approved>
-													</translation>
-												</translations>
-											</concept_node>
-											<concept_node>
 												<name>ROUND_OF_16</name>
 												<description/>
 												<comment/>
@@ -16715,6 +16695,26 @@
 											</concept_node>
 											<concept_node>
 												<name>ROUND_OF_64</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
+												<name>ROUND_OF_128</name>
 												<description/>
 												<comment/>
 												<default_text/>
@@ -17059,7 +17059,7 @@
 												</translations>
 											</concept_node>
 											<concept_node>
-												<name>PLAYOFFS</name>
+												<name>PLAYOFF_ROUND</name>
 												<description/>
 												<comment/>
 												<default_text/>
@@ -17079,7 +17079,7 @@
 												</translations>
 											</concept_node>
 											<concept_node>
-												<name>PLAYOFF_ROUND</name>
+												<name>PLAYOFFS</name>
 												<description/>
 												<comment/>
 												<default_text/>
@@ -17656,7 +17656,7 @@
 										</translations>
 									</concept_node>
 									<concept_node>
-										<name>NONE</name>
+										<name>NO_INFO</name>
 										<description/>
 										<comment/>
 										<default_text/>
@@ -17676,7 +17676,7 @@
 										</translations>
 									</concept_node>
 									<concept_node>
-										<name>NO_INFO</name>
+										<name>NONE</name>
 										<description/>
 										<comment/>
 										<default_text/>
@@ -18115,6 +18115,36 @@
 											</concept_node>
 											<concept_node>
 												<name>TOOLBAR_TITLE</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+										</children>
+									</folder_node>
+								</children>
+							</folder_node>
+							<folder_node>
+								<name>SERVICE</name>
+								<children>
+									<folder_node>
+										<name>MUSIC-PLAYER</name>
+										<children>
+											<concept_node>
+												<name>LOAD_ERROR_TEXT</name>
 												<description/>
 												<comment/>
 												<default_text/>
