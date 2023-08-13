@@ -1197,6 +1197,46 @@
 														</translations>
 													</concept_node>
 													<concept_node>
+														<name>BASELJETZT</name>
+														<description/>
+														<comment/>
+														<default_text/>
+														<translations>
+															<translation>
+																<language>de-CH</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>de-DE</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>en-US</language>
+																<approved>false</approved>
+															</translation>
+														</translations>
+													</concept_node>
+													<concept_node>
+														<name>BASELJETZT_DESCRIPTION</name>
+														<description/>
+														<comment/>
+														<default_text/>
+														<translations>
+															<translation>
+																<language>de-CH</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>de-DE</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>en-US</language>
+																<approved>false</approved>
+															</translation>
+														</translations>
+													</concept_node>
+													<concept_node>
 														<name>BETS</name>
 														<description/>
 														<comment/>
@@ -4029,6 +4069,26 @@
 												</translations>
 											</concept_node>
 											<concept_node>
+												<name>PARTNER_OF_ROTBLAU</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
 												<name>SHARE</name>
 												<description/>
 												<comment/>
@@ -4683,6 +4743,91 @@
 													</concept_node>
 												</children>
 											</folder_node>
+											<concept_node>
+												<name>TOOLBAR_TITLE</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+										</children>
+									</folder_node>
+									<folder_node>
+										<name>BASELJETZT</name>
+										<children>
+											<concept_node>
+												<name>BUTTON_LABEL</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
+												<name>INFO_TEXT</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
+											<concept_node>
+												<name>INFO_TITLE</name>
+												<description/>
+												<comment/>
+												<default_text/>
+												<translations>
+													<translation>
+														<language>de-CH</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>de-DE</language>
+														<approved>false</approved>
+													</translation>
+													<translation>
+														<language>en-US</language>
+														<approved>false</approved>
+													</translation>
+												</translations>
+											</concept_node>
 											<concept_node>
 												<name>TOOLBAR_TITLE</name>
 												<description/>
