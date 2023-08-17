@@ -95,6 +95,8 @@
 	"APP.COMPONENT.BET-SWIPER.BET": "Tipp",
 	"APP.COMPONENT.COMMENT-LIST-ELEMENT.COMMENT": "Kommentieren",
 	"APP.COMPONENT.COMMENT-LIST-ELEMENT.REPLY": "Antworten",
+	"APP.COMPONENT.DATETIME.DATE": "Datum",
+	"APP.COMPONENT.DATETIME.TIME": "Zeit",
 	"APP.COMPONENT.ERROR-BOX.ERROR_INFO": "Details zum Fehler",
 	"APP.COMPONENT.ERROR-BOX.ERROR_NO_INTERNET_TEXT": "Es besteht keine Internetverbindung.",
 	"APP.COMPONENT.ERROR-BOX.ERROR_TEXT": "Die Anfrage zu unserem Server ist fehlgschlagen. Bitte versuche es nochmals.",
