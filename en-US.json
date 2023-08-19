@@ -229,6 +229,8 @@
 	"APP.COMPONENT.TRUNCATED_DIV.SHOW_MORE": "Show more",
 	"APP.COMPONENT.USERNAME-BOX.DESCRIPTION": "We have automatically generated a user name for you that is going to be used in your posts or comments. Please adjust your user name!",
 	"APP.COMPONENT.USERNAME-BOX.MORE_SETTINGS": "More settings",
+	"APP.MENU.ADMIN-NEWS.SHOW_HIDDEN_NEWS": "Show hidden",
+	"APP.MENU.ADMIN-NEWS.TOOLBAR_TITLE": "News",
 	"APP.MENU.ADMIN-POSTS.ROTBLAU_POSTS_ONLY": "Rotblau only",
 	"APP.MENU.ADMIN-POSTS.SHOW_HIDDEN_POSTS": "Show hidden",
 	"APP.MENU.ADMIN-POSTS.TOOLBAR_TITLE": "Posts",

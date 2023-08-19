@@ -229,6 +229,8 @@
 	"APP.COMPONENT.TRUNCATED_DIV.SHOW_MORE": "Mehr anzeigen",
 	"APP.COMPONENT.USERNAME-BOX.DESCRIPTION": "Wir haben dir automatisch einen Benutzernamen zugewiesen, der in deinen Posts oder Kommentaren verwendet wird.\n    Bitte passe deinen Benutzernamen an!",
 	"APP.COMPONENT.USERNAME-BOX.MORE_SETTINGS": "Mehr Einstellungen",
+	"APP.MENU.ADMIN-NEWS.SHOW_HIDDEN_NEWS": "Versteckte anzeigen",
+	"APP.MENU.ADMIN-NEWS.TOOLBAR_TITLE": "News",
 	"APP.MENU.ADMIN-POSTS.ROTBLAU_POSTS_ONLY": "Nur Rotblau",
 	"APP.MENU.ADMIN-POSTS.SHOW_HIDDEN_POSTS": "Versteckte anzeigen",
 	"APP.MENU.ADMIN-POSTS.TOOLBAR_TITLE": "Posts",

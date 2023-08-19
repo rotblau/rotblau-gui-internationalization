@@ -229,6 +229,8 @@
 	"APP.COMPONENT.TRUNCATED_DIV.SHOW_MORE": "Mee aazaige",
 	"APP.COMPONENT.USERNAME-BOX.DESCRIPTION": "Mir hän dir automatisch e Benutzernaame zuegwiise, wo in dyyne Posts oder Kommentär bruucht wird. Bitte pass dyy Benutzernaame aa!",
 	"APP.COMPONENT.USERNAME-BOX.MORE_SETTINGS": "Mee Yystellige",
+	"APP.MENU.ADMIN-NEWS.SHOW_HIDDEN_NEWS": "Versteggti aazaige",
+	"APP.MENU.ADMIN-NEWS.TOOLBAR_TITLE": "News",
 	"APP.MENU.ADMIN-POSTS.ROTBLAU_POSTS_ONLY": "Nur Rotblau",
 	"APP.MENU.ADMIN-POSTS.SHOW_HIDDEN_POSTS": "Versteggti aazaige",
 	"APP.MENU.ADMIN-POSTS.TOOLBAR_TITLE": "Posts",
