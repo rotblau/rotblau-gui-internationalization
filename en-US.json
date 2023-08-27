@@ -683,6 +683,8 @@
 	"APP.MODAL.WELCOME.REQUEST_LOGIN_DATA": "Request login data",
 	"APP.MODAL.WELCOME.WELCOME_TEXT": "Please log in to our system. You only require a user name and a password.",
 	"APP.MODAL.WELCOME.WELCOME_TITLE": "Welcome to Rotblau!",
+	"APP.TOAST.ADMIN-IMAGE-MODAL.DELETE_SUCCESS": "The image was deleted successfully.",
+	"APP.TOAST.ADMIN-IMAGE-MODAL.SAVE_SUCCESS": "The image was saved successfully.",
 	"APP.TOAST.ADMIN-NEWS-EDITOR.DELETE_SUCCESS": "The news article has been deleted.",
 	"APP.TOAST.ADMIN-NEWS-EDITOR.POST_SUCCESS": "The post has been saved to the app feed.",
 	"APP.TOAST.ADMIN-NEWS-EDITOR.SAVE_CONFLICT_ERROR": "The news article has been edited by another user in the meantime! Please save your text in another app first, refresh the page and then try again.",

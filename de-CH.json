@@ -683,6 +683,8 @@
 	"APP.MODAL.WELCOME.REQUEST_LOGIN_DATA": "Logindaate aafordere",
 	"APP.MODAL.WELCOME.WELCOME_TEXT": "Bitte logg di in unser Syschteem yy. Drzue bruuchsch du nur e Benutzernaame und e Passwort.",
 	"APP.MODAL.WELCOME.WELCOME_TITLE": "Willkomme bi Rotblau!",
+	"APP.TOAST.ADMIN-IMAGE-MODAL.DELETE_SUCCESS": "S Bild isch erfolgryych glöscht worde.",
+	"APP.TOAST.ADMIN-IMAGE-MODAL.SAVE_SUCCESS": "S Bild isch erfolgryych gspaicheret worde.",
 	"APP.TOAST.ADMIN-NEWS-EDITOR.DELETE_SUCCESS": "Dr News-Artiggel isch glöscht worde.",
 	"APP.TOAST.ADMIN-NEWS-EDITOR.POST_SUCCESS": "Dr Post isch im App-Feed gspaicheret worde.",
 	"APP.TOAST.ADMIN-NEWS-EDITOR.SAVE_CONFLICT_ERROR": "Dr News-Artiggel isch mittlerwyyle von emen andere Benutzer gänderet worde! Bitte spaichere dy Teggscht in ere anderen App, laad d Syte neu und versuechs nomol.",
