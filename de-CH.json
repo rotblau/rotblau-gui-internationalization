@@ -689,6 +689,7 @@
 	"APP.TOAST.ADMIN-NEWS-EDITOR.POST_SUCCESS": "Dr Post isch im App-Feed gspaicheret worde.",
 	"APP.TOAST.ADMIN-NEWS-EDITOR.SAVE_CONFLICT_ERROR": "Dr News-Artiggel isch mittlerwyyle von emen andere Benutzer gänderet worde! Bitte spaichere dy Teggscht in ere anderen App, laad d Syte neu und versuechs nomol.",
 	"APP.TOAST.ADMIN-NEWS-EDITOR.SAVE_SUCCESS": "Dr Artiggel isch gspaicheret worde.",
+	"APP.TOAST.ADMIN-NEWS-EDITOR.URL_COPIED": "Dr News-Lingg isch ind Zwüscheablaag kopiert worde.",
 	"APP.TOAST.ADMIN-PUSH.DISABLED_IN_DEV_MODE": "Push-Noochrichte wärde im Dev-Mode nid verschiggt.",
 	"APP.TOAST.ADMIN-PUSH.NOTIFICATION_SUCCESS": "D Push-Noochricht isch erfolgryych verschiggt worde.",
 	"APP.TOAST.APP.ADD_ERROR": "S Menü het nid könne hinzuegfiegt wärde.",

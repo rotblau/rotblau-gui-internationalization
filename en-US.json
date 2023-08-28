@@ -689,6 +689,7 @@
 	"APP.TOAST.ADMIN-NEWS-EDITOR.POST_SUCCESS": "The post has been saved to the app feed.",
 	"APP.TOAST.ADMIN-NEWS-EDITOR.SAVE_CONFLICT_ERROR": "The news article has been edited by another user in the meantime! Please save your text in another app first, refresh the page and then try again.",
 	"APP.TOAST.ADMIN-NEWS-EDITOR.SAVE_SUCCESS": "The article has been saved.",
+	"APP.TOAST.ADMIN-NEWS-EDITOR.URL_COPIED": "The news link has been copied to the clipboard.",
 	"APP.TOAST.ADMIN-PUSH.DISABLED_IN_DEV_MODE": "Push notifications are not being sent in dev mode.",
 	"APP.TOAST.ADMIN-PUSH.NOTIFICATION_SUCCESS": "The push notification was sent successfully.",
 	"APP.TOAST.APP.ADD_ERROR": "The menu could not be added.",
