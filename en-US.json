@@ -243,6 +243,8 @@
 	"APP.COMPONENT.TRUNCATED_DIV.SHOW_MORE": "Show more",
 	"APP.COMPONENT.USERNAME-BOX.DESCRIPTION": "We have automatically generated a user name for you that is going to be used in your posts or comments. Please adjust your user name!",
 	"APP.COMPONENT.USERNAME-BOX.MORE_SETTINGS": "More settings",
+	"APP.MENU.ADMIN-GAMES.ALL_GAMES": "All games of the day",
+	"APP.MENU.ADMIN-GAMES.FCB_GAMES": "FC Basel games",
 	"APP.MENU.ADMIN-GAMES.TOOLBAR_TITLE": "Football",
 	"APP.MENU.ADMIN-IMAGES.TOOLBAR_TITLE": "Images",
 	"APP.MENU.ADMIN-NEWS.NEWS-EDITOR.ADD_IMAGE": "Add image",

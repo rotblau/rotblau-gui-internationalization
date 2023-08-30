@@ -243,6 +243,8 @@
 	"APP.COMPONENT.TRUNCATED_DIV.SHOW_MORE": "Mehr anzeigen",
 	"APP.COMPONENT.USERNAME-BOX.DESCRIPTION": "Wir haben dir automatisch einen Benutzernamen zugewiesen, der in deinen Posts oder Kommentaren verwendet wird.\n    Bitte passe deinen Benutzernamen an!",
 	"APP.COMPONENT.USERNAME-BOX.MORE_SETTINGS": "Mehr Einstellungen",
+	"APP.MENU.ADMIN-GAMES.ALL_GAMES": "Alle Spiele des Tages",
+	"APP.MENU.ADMIN-GAMES.FCB_GAMES": "Spiele des FC Basel",
 	"APP.MENU.ADMIN-GAMES.TOOLBAR_TITLE": "Fussball",
 	"APP.MENU.ADMIN-IMAGES.TOOLBAR_TITLE": "Bilder",
 	"APP.MENU.ADMIN-NEWS.NEWS-EDITOR.ADD_IMAGE": "Bild hinzufügen",
