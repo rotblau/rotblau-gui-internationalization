@@ -9842,7 +9842,64 @@
 														</translations>
 													</concept_node>
 													<concept_node>
+														<name>CONNECTIONS</name>
+														<description/>
+														<comment/>
+														<translations>
+															<translation>
+																<language>de-CH</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>de-DE</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>en-US</language>
+																<approved>false</approved>
+															</translation>
+														</translations>
+													</concept_node>
+													<concept_node>
 														<name>DISPLAY_MODE</name>
+														<description/>
+														<comment/>
+														<translations>
+															<translation>
+																<language>de-CH</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>de-DE</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>en-US</language>
+																<approved>false</approved>
+															</translation>
+														</translations>
+													</concept_node>
+													<concept_node>
+														<name>EDIT_MAIN_MENU</name>
+														<description/>
+														<comment/>
+														<translations>
+															<translation>
+																<language>de-CH</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>de-DE</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>en-US</language>
+																<approved>false</approved>
+															</translation>
+														</translations>
+													</concept_node>
+													<concept_node>
+														<name>FIX_ON_LARGE_SCREENS</name>
 														<description/>
 														<comment/>
 														<translations>
@@ -9900,6 +9957,25 @@
 													</concept_node>
 													<concept_node>
 														<name>LOGOUT</name>
+														<description/>
+														<comment/>
+														<translations>
+															<translation>
+																<language>de-CH</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>de-DE</language>
+																<approved>false</approved>
+															</translation>
+															<translation>
+																<language>en-US</language>
+																<approved>false</approved>
+															</translation>
+														</translations>
+													</concept_node>
+													<concept_node>
+														<name>MAIN_MENU</name>
 														<description/>
 														<comment/>
 														<translations>
