@@ -422,6 +422,7 @@
 	"APP.MENU.BETS.BETGROUP.BETS.PTS": "Pts",
 	"APP.MENU.BETS.BETGROUP.BETS.RES": "Res",
 	"APP.MENU.BETS.BETGROUP.BETS.TITLE": "Bets",
+	"APP.MENU.BETS.BETGROUP.BETS.TOTAL_POINTS": "Total points",
 	"APP.MENU.BETS.BETGROUP.HOME.BET_GAMES_TEXT": "Here you can bet on the current games. Press «bets» below to see all games and your results.",
 	"APP.MENU.BETS.BETGROUP.HOME.BET_GAMES_TITLE": "Bet on games",
 	"APP.MENU.BETS.BETGROUP.HOME.CREATOR_OF_BETGROUP": "Creator of the betting group",
