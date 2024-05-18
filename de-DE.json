@@ -1206,6 +1206,8 @@
 	"WIDGET.VIEW.WIDGETS.MOTM.TEXT_VOTING_DISABLED": "Die Abstimmung ist nach Anpfiff des Spiels möglich und dauert 24 Stunden.",
 	"WIDGET.VIEW.WIDGETS.MOTM.TICKER": "Ticker",
 	"WIDGET.VIEW.WIDGETS.MOTM.TITLE": "Abstimmung «Man of the Match»",
+	"WIDGET.VIEW.WIDGETS.SEASON-GAMES.TEXT_LOADING_DATA": "Lade Saison-Daten...",
+	"WIDGET.VIEW.WIDGETS.SEASON-GAMES.TEXT_NO_DATA_FOUND": "Keine Saison-Daten gefunden...",
 	"WIDGET.VIEW.WIDGETS.TICKER.LINEUP": "Aufstellungen",
 	"WIDGET.VIEW.WIDGETS.TICKER.REFEREES": "Schiedsrichter",
 	"WIDGET.VIEW.WIDGETS.TICKER.TEXT_LOADING_DATA": "Lade Liveticker-Daten...",
